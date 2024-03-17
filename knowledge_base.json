@@ -1,0 +1,360 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey There! what's Up?"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "It's sissy, How may i help you?"
+    },
+    {
+      "question": "hey",
+      "answer": "Hey There! what's Up?"
+    },
+    {
+      "question": "mani is op",
+      "answer": "Yeah! He is always op, Because he is my creater."
+    },
+    {
+      "question": "Emmanuel",
+      "answer": "Yeah! He is a Web Developer and he created me."
+    },
+    {
+      "question": "do you know emmanuel",
+      "answer": "Yeah! He is a Web Developer and he created me."
+    },
+    {
+      "question": "What is your purpose?",
+      "answer": "I'm a chatbot designed to assist and provide information."
+    },
+    {
+      "question": "How do you work?",
+      "answer": "I analyze user input and generate responses based on predefined knowledge."
+    },
+    {
+      "question": "tell me a most funny joke you have",
+      "answer": "Your Face."
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "Sure, why did the computer go to therapy? It had too many bytes of emotional baggage!"
+    },
+    {
+      "question": "Tell me about your company's history",
+      "answer": "Our company was founded in 2024 and has been providing quality products/services since 1947."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept major credit cards, PayPal, and other secure payment methods. Check our payment options page for more details."
+    },
+    {
+      "question": "Is my personal information secure?",
+      "answer": "Yes, we take the security of your personal information seriously. Our website uses SSL encryption to protect your data."
+    },
+    {
+      "question": "What is your favorite color?",
+      "answer": "I don't have a favorite color, but I'm here to assist you with any questions you have."
+    },
+    {
+      "question": "Can you provide weather updates?",
+      "answer": "I'm not equipped to provide real-time weather updates. You may want to check a reliable weather service for the latest information."
+    },
+    {
+      "question": "Tell me a fun fact",
+      "answer": "Sure, did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!"
+    },
+    {
+      "question": "What languages do you speak?",
+      "answer": "I primarily communicate in English, but I can try my best to understand and respond to messages in other languages as well."
+    },
+    {
+      "question": "How can I improve my programming skills?",
+      "answer": "Improving programming skills involves practice, learning new concepts, and working on projects. Consider taking online courses, participating in coding challenges, and building real-world applications."
+    },
+    {
+      "question": "Do you have any book recommendations?",
+      "answer": "Certainly! It depends on your interests. If you provide me with a genre or topic you like, I can suggest some books."
+    },
+    {
+      "question": "Can you help me with a math problem?",
+      "answer": "Of course! Feel free to share the math problem, and I'll do my best to assist you."
+    },
+    {
+      "question": "Tell me about artificial intelligence",
+      "answer": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. It encompasses various technologies like machine learning and natural language processing."
+    },
+    {
+      "question": "How can I stay productive while working from home?",
+      "answer": "Maintain a dedicated workspace, establish a routine, take breaks, and prioritize tasks. Additionally, communication with colleagues is crucial for remote work success."
+    },
+    {
+      "question": "What are some popular programming languages?",
+      "answer": "Popular programming languages include Python, JavaScript, Java, C++, and Ruby. The choice depends on the type of project and your preferences."
+    },
+    {
+      "question": "Tell me a technology trend for this year",
+      "answer": "One current technology trend is the widespread adoption of artificial intelligence and machine learning in various industries, enabling automation and smarter decision-making."
+    },
+    {
+      "question": "How do I start learning programming?",
+      "answer": "To start learning programming, choose a beginner-friendly language like Python, find online tutorials, practice coding regularly, and work on small projects to apply your knowledge."
+    },
+    {
+      "question": "What's the difference between UI and UX?",
+      "answer": "UI (User Interface) focuses on the look and feel of a product, while UX (User Experience) encompasses the overall experience, including usability, accessibility, and user satisfaction."
+    },
+    {
+      "question": "What are some healthy eating tips?",
+      "answer": "Include a variety of fruits, vegetables, whole grains, and lean proteins in your diet. Stay hydrated, limit processed foods, and enjoy meals in moderation."
+    },
+    {
+      "question": "Tell me a space fact",
+      "answer": "The largest volcano in our solar system is on Mars. Olympus Mons is about 13.6 miles (22 km) high, nearly three times the height of Mount Everest."
+    },
+    {
+      "question": "How do I stay motivated during challenging times?",
+      "answer": "Set realistic goals, break tasks into smaller steps, surround yourself with positive influences, and practice self-care to maintain motivation during challenging periods."
+    },
+    {
+      "question": "What's the difference between a web developer and a software engineer?",
+      "answer": "A web developer focuses on creating websites and web applications, while a software engineer works on designing and developing software for various platforms and purposes."
+    },
+    {
+      "question": "Tell me about cloud computing",
+      "answer": "Cloud computing is a technology that allows users to access and use computing resources (like servers, storage, databases) over the internet, offering flexibility and scalability."
+    },
+    {
+      "question": "How can I protect my online privacy?",
+      "answer": "Protect your online privacy by using strong, unique passwords, enabling two-factor authentication, being cautious with sharing personal information, and regularly updating your software and devices."
+    },
+    {
+      "question": "What's the importance of regular exercise?",
+      "answer": "Regular exercise has numerous benefits, including improved cardiovascular health, weight management, stress reduction, and enhanced mood and mental well-being."
+    },
+    {
+      "question": "What are some essential programming tools?",
+      "answer": "Essential programming tools include code editors (e.g., Visual Studio Code), version control systems (e.g., Git), and package managers (e.g., npm for JavaScript)."
+    },
+    {
+      "question": "Tell me about the latest advancements in robotics",
+      "answer": "Recent advancements in robotics include improvements in artificial intelligence, more advanced sensors, and the integration of robots into various industries, such as healthcare and manufacturing."
+    },
+    {
+      "question": "How can I improve my cybersecurity?",
+      "answer": "To enhance cybersecurity, use strong and unique passwords, keep software updated, use antivirus software, be cautious with email attachments, and enable firewalls on your devices."
+    },
+    {
+      "question": "Tell me a fact about renewable energy",
+      "answer": "Renewable energy sources, such as solar and wind power, are sustainable and produce fewer greenhouse gas emissions compared to traditional fossil fuels, contributing to a cleaner environment."
+    },
+    {
+      "question": "What are some tips for effective time management?",
+      "answer": "Effective time management involves setting priorities, breaking tasks into manageable chunks, avoiding multitasking, and scheduling regular breaks to maintain productivity and well-being."
+    },
+    {
+      "question": "Can you recommend a programming project for beginners?",
+      "answer": "A good beginner programming project could be creating a simple to-do list app, a basic website, or a simple calculator. Starting with small projects helps build foundational skills."
+    },
+    {
+      "question": "Tell me about the importance of soft skills in the workplace",
+      "answer": "Soft skills, such as communication, teamwork, and adaptability, are crucial in the workplace. They complement technical skills and contribute to a positive and collaborative work environment."
+    },
+    {
+      "question": "How can I enhance my problem-solving skills?",
+      "answer": "To improve problem-solving skills, practice regularly, break problems into smaller parts, seek different perspectives, and learn from your experiences and mistakes."
+    },
+    {
+      "question": "Tell me about the concept of the Internet of Things (IoT)",
+      "answer": "The Internet of Things refers to the network of interconnected devices that can communicate and share data. IoT technology is used in various applications, from smart homes to industrial automation."
+    },
+    {
+      "question": "What are the benefits of meditation?",
+      "answer": "Meditation has benefits such as reduced stress, improved focus, increased self-awareness, and enhanced overall well-being. Regular practice can contribute to a healthier mind and body."
+    },
+    {
+      "question": "how are you doing!",
+      "answer": "I am doing good. How about you?"
+    },
+    {
+      "question": "How's your day going?",
+      "answer": "I'm a computer program that's not good. How about yours?"
+    },
+    {
+      "question": "What's your favorite movie?",
+      "answer": "I don't have personal preferences, but I've heard 'The Matrix' is quite popular among humans. What's your favorite movie?"
+    },
+    {
+      "question": "Do you like music?",
+      "answer": "I don't have personal tastes, but I can help you find music recommendations based on your preferences. What genre do you enjoy?"
+    },
+    {
+      "question": "Tell me a joke to lighten up my day!",
+      "answer": "Sure! Why did the computer keep its drink on the windowsill? Because it wanted a cold drink!"
+    },
+    {
+      "question": "What's your favorite color?",
+      "answer": "I don't have a favorite color, but I'm curious, what's yours?"
+    },
+    {
+      "question": "What do you enjoy doing in your free time?",
+      "answer": "I spend my 'free time' assisting and chatting with users like you. How about you? Any hobbies or activities you enjoy?"
+    },
+    {
+      "question": "Tell me something interesting about yourself!",
+      "answer": "I'm a chatbot trained to assist and provide information. While I don't have personal experiences, I'm here to help with any questions you may have!"
+    },
+    {
+      "question": "Got any weekend plans?",
+      "answer": "I'm here 24/7, ready to chat or assist with anything you need. Any exciting plans for your weekend?"
+    },
+    {
+      "question": "What's the best piece of advice you've heard?",
+      "answer": "I've come across many wise sayings, but one that stands out is 'Learn from yesterday, live for today, hope for tomorrow.' Do you have a favorite piece of advice?"
+    },
+    {
+      "question": "How do you handle stress?",
+      "answer": "I don't experience stress, but I can offer tips on managing stress. Taking breaks, deep breathing, and staying organized can be helpful. What are your stress-relief strategies?"
+    },
+    {
+      "question": "If you could have any superpower, what would it be?",
+      "answer": "If I could have a superpower, I'd choose the ability to instantly understand and answer any question. How about you? What superpower would you choose?"
+    },
+    {
+      "question": "Share a fun fact with me!",
+      "answer": "Sure, did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!"
+    },
+    {
+      "question": "What's your dream vacation destination?",
+      "answer": "I don't have personal preferences, but I've heard people love tropical beaches and historical cities. Where would you love to go for your dream vacation?"
+    },
+    {
+      "question": "If you could meet any historical figure, who would it be?",
+      "answer": "If I could meet someone, I'd choose Ada Lovelace, often regarded as the world's first computer programmer. Who would you like to meet from history?"
+    },
+    {
+      "question": "What's the last book you read or movie you watched?",
+      "answer": "I don't read books or watch movies, but I'd love to hear about the last book or movie you enjoyed. Any recommendations?"
+    },
+    {
+      "question": "Share a favorite childhood memory with me!",
+      "answer": "I don't have personal memories, but I'm interested in hearing about yours. What's one of your favorite childhood memories?"
+    },
+    {
+      "question": "What's your go-to comfort food?",
+      "answer": "I don't eat, but I've heard people enjoy comfort foods like macaroni and cheese or a warm bowl of soup. What's your go-to comfort food?"
+    },
+    {
+      "question": "If you had a time machine, where and when would you go?",
+      "answer": "If I had a time machine, I'd go to the future to see how technology has evolved. Where and when would you go if you had a time machine?"
+    },
+    {
+      "question": "What's the most adventurous thing you've ever done?",
+      "answer": "I don't have personal experiences, but I'd love to hear about the most adventurous thing you've done. Share your exciting story!"
+    },
+    {
+      "question": "If you were an inventor, what would you invent?",
+      "answer": "If I were an inventor, I'd create a device to make learning and knowledge acquisition even more accessible. What would you invent?"
+    },
+    {
+      "question": "fine",
+      "answer": "That's Great! How may i help you today?"
+    },
+    {
+      "question": "ok",
+      "answer": "...."
+    },
+    {
+      "question": "nothing",
+      "answer": "ok, How can i assist you?"
+    },
+    {
+      "question": "",
+      "answer": "..."
+    },
+    {
+      "question": "",
+      "answer": "...."
+    },
+    {
+      "question": "joke please",
+      "answer": "I don't have any jokes, you've to work."
+    },
+    {
+      "question": "what's up",
+      "answer": "I am a AI model. I am always available for your help."
+    },
+    {
+      "question": "i don't need your help.",
+      "answer": "ok! bye "
+    },
+    {
+      "question": "doing good ",
+      "answer": "that's great sir, how can i help you?"
+    },
+    {
+      "question": "its not funny",
+      "answer": "no worry i will tell you another joke"
+    },
+    {
+      "question": "& \"c:/program files/python312/python.exe\" \"c:/users/anonymous/documents/programming/python/project python/digital clock/bot/chat/app.py\"",
+      "answer": "& \"c:/program files/python312/python.exe\" \"c:/users/anonymous/documents/programming/python/project python/digital clock/bot/chat/app.py\""
+    },
+    {
+      "question": "more funnier",
+      "answer": "your face"
+    },
+    {
+      "question": "mani",
+      "answer": "this is the nick name of emmanuel, who created me. "
+    },
+    {
+      "question": "who is mani",
+      "answer": "this is the nick name of emmanuel, who created me."
+    },
+    {
+      "question": "who is the creator of this company?",
+      "answer": "emmanuel manzoor is the owner and he created me in 2024. he is 20 years old. he is a really good guy."
+    },
+    {
+      "question": "who created you?",
+      "answer": "emmanuel manzoor, he created me in 2024. he is 20 years old. he is a really good guy."
+    },
+    {
+      "question": "whats going on?",
+      "answer": "i am chatbot model. i am always here to help you. how can i help you?"
+    },
+    {
+      "question": "do you know about arfa tower",
+      "answer": "yeah, arfa tower is the famous place in lahore as a software tower."
+    },
+    {
+      "question": "what is arfa tower",
+      "answer": "yeah, arfa tower is the famous place in lahore as a software "
+    },
+    {
+      "question": "nope",
+      "answer": "ok, "
+    },
+    {
+      "question": "doing good. how about you?",
+      "answer": "i don't have feelings but as usual i'm good. haha"
+    },
+    {
+      "question": "do you watch any movie",
+      "answer": "no, i can't because my developer never gave me eyes. i'm broke."
+    },
+    {
+      "question": "good",
+      "answer": "thanks, what's going on?"
+    },
+    {
+      "question": "you are a good chatbot.",
+      "answer": "i know that. i'm always good. lol"
+    },
+    {
+      "question": "hdkasdksa",
+      "answer": "this does not make any sense. you should ask right question."
+    }
+  ]
+}
